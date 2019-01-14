@@ -1,0 +1,1155 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Trace Tropical" tvg-name="FR:TRACE TROPICAL" tvg-logo="http://gtv2.tn/logo/tracetropical.png" group-title="CHAINES FRANCAISES",FR:TRACE TROPICAL
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/6744
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR: SERIE CLUB HD" tvg-logo="http://gtv.tn/icon/SerieClub.jpg" group-title="CHAINES FRANCAISES",FR: SERIE CLUB HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/357
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR: TEVA HD" tvg-logo="http://gtv.tn/icon/Teva.jpg" group-title="CHAINES FRANCAISES",FR: TEVA HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3697
+#EXTINF:-1 tvg-id="Paris Premiere FR" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="http://gtv2.tn/logo/parispremier.png" group-title="CHAINES FRANCAISES",FR: PARIS PREMIERE HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5080
+#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="FR: TELETOON+ HD" tvg-logo="http://gtv.tn/icon/teletoon.jpg" group-title="CHAINES KIDS FR",FR: TELETOON+ HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/276
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="FR:PIWI.HD" tvg-logo="http://gtv.tn/icon/PIWI.jpg" group-title="CHAINES KIDS FR",FR:PIWI.HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/1260
+#EXTINF:-1 tvg-id="" tvg-name="FR:POLARS Plus" tvg-logo="http://gtv2.tn/logo/polars+.jpg" group-title="CHAINES FRANCAISES",FR:POLARS Plus
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/9507
+#EXTINF:-1 tvg-id="" tvg-name="beIN BARAEM HD AR" tvg-logo="" group-title="CHAINES KIDS AR",beIN BARAEM HD AR
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/10797
+#EXTINF:-1 tvg-id="" tvg-name="beIN FATAFEAT HD AR" tvg-logo="" group-title="MBC-ROTANA-CBC-ART-AD",beIN FATAFEAT HD AR
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/10795
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 HD" tvg-logo="data:image/jpeg;base64,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" group-title="MBC-ROTANA-CBC-ART-AD",beIN Movies 1 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/693
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD" tvg-logo="" group-title="MBC-ROTANA-CBC-ART-AD",beIN Movies 2 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/690
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD" tvg-logo="data:image/jpeg;base64,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" group-title="MBC-ROTANA-CBC-ART-AD",beIN Movies 3 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/694
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD" tvg-logo="https://4.bp.blogspot.com/-8PfU4HVisrs/VvQHq0XM_oI/AAAAAAAABPQ/lpz9V3joN0EOL6VfHlJXTl-F47GAoTn3w/s1600/bein%2Bmovies%2B4.gif" group-title="MBC-ROTANA-CBC-ART-AD",beIN Movies 4 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/1602
+#EXTINF:-1 tvg-id="" tvg-name="BeiN NAT GEO WILD  HD" tvg-logo="" group-title="CHAINES ARAB",BeiN NAT GEO WILD  HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/12680
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="FR: CINE CLASSIC HD" tvg-logo="http://gtv.tn/icon/CINECLASSIC.jpg" group-title="CHAINES FRANCAISES",FR: CINE CLASSIC HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/211
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="FR: CINE CLUB HD" tvg-logo="" group-title="CHAINES FRANCAISES",FR: CINE CLUB HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5162
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="FR: CINE EMOTION HD" tvg-logo="http://gtv.tn/icon/CINE.EMOTION%20HD.png" group-title="CHAINES FRANCAISES",FR: CINE EMOTION HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/1618
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="FR: CINE FAMIZ HD" tvg-logo="http://gtv.tn/icon/CINE +FAMIZ.PNG" group-title="CHAINES FRANCAISES",FR: CINE FAMIZ HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/210
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="FR: CINE FRISSON HD" tvg-logo="http://gtv.tn/icon/Logo_Frisson.jpg" group-title="CHAINES FRANCAISES",FR: CINE FRISSON HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/205
+#EXTINF:-1 tvg-id="Polar.fr" tvg-name="FR: CINE POLAR HD" tvg-logo="http://gtv2.tn/logo/cinepolar.png" group-title="CHAINES FRANCAISES",FR: CINE POLAR HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/1518
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="FR: CINE+ PREMIER HD" tvg-logo="http://gtv.tn/icon/CINE+.PREMIER.png" group-title="CHAINES FRANCAISES",FR: CINE+ PREMIER HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/1616
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="FR: CANAL+ DECALE HD" tvg-logo="http://gtv.tn/icon/CANALplusDECALE.jpg" group-title="CHAINES FRANCAISES",FR: CANAL+ DECALE HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/203
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL+ SERIE HD" tvg-logo="http://gtv.tn/icon/CanalplusSeries.jpg" group-title="CHAINES FRANCAISES",FR: CANAL+ SERIE HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/214
+#EXTINF:-1 tvg-id="" tvg-name="TN:TunisiaNat.1" tvg-logo="http://gtv.tn/icon/watanya 1.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:TunisiaNat.1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/125
+#EXTINF:-1 tvg-id="" tvg-name="TN:Tunisia.Nat.2" tvg-logo="http://gtv.tn/icon/watanya 2.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:Tunisia.Nat.2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/145
+#EXTINF:-1 tvg-id="" tvg-name="TN:Al.Hiwar.Ettounsi" tvg-logo="http://gtv.tn/icon/ettounissia.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:Al.Hiwar.Ettounsi
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/129
+#EXTINF:-1 tvg-id="" tvg-name="TN:AttesiaTV" tvg-logo="http://gtv.tn/icon/tasia.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:AttesiaTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/36
+#EXTINF:-1 tvg-id="" tvg-name="TN:NessmaTV" tvg-logo="http://gtv.tn/icon/Nesma.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:NessmaTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/34
+#EXTINF:-1 tvg-id="" tvg-name="TN:hannibal" tvg-logo="http://gtv.tn/icon/Hanabal.png" group-title="TUNISIA-ALGERIA-MORROCO",TN:hannibal
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/184
+#EXTINF:-1 tvg-id="" tvg-name="TN:CARTHAGE TV" tvg-logo="http://gtv.tn/icon/cartage.jpeg" group-title="TUNISIA-ALGERIA-MORROCO",TN:CARTHAGE TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5030
+#EXTINF:-1 tvg-id="" tvg-name="TN:Telvza.Tv" tvg-logo="http://gtv.tn/icon/telvzatv.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:Telvza.Tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/274
+#EXTINF:-1 tvg-id="" tvg-name="TN:AlMoutawasetTV" tvg-logo="http://gtv.tn/icon/moutwaset.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:AlMoutawasetTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/222
+#EXTINF:-1 tvg-id="" tvg-name="TN:Moustakela" tvg-logo="http://gtv.tn/icon/Almostaqila.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:Moustakela
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/221
+#EXTINF:-1 tvg-id="" tvg-name="TN:Aljanoubia" tvg-logo="http://gtv.tn/icon/janoubia.png" group-title="TUNISIA-ALGERIA-MORROCO",TN:Aljanoubia
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/215
+#EXTINF:-1 tvg-id="" tvg-name="TN:ZaytounaTV" tvg-logo="http://gtv.tn/icon/ZitounaTV.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:ZaytounaTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/220
+#EXTINF:-1 tvg-id="" tvg-name="TN:Tounesna" tvg-logo="http://gtv.tn/icon/tounesna.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:Tounesna
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/37
+#EXTINF:-1 tvg-id="" tvg-name="TN:Alinsen" tvg-logo="http://gtv.tn/icon/elensen.jpg" group-title="TUNISIA-ALGERIA-MORROCO",TN:Alinsen
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/724
+#EXTINF:-1 tvg-id="" tvg-name="MA:AlAoulaI.nter" tvg-logo="http://gtv.tn/icon/alaoula.png" group-title="TUNISIA-ALGERIA-MORROCO",MA:AlAoulaI.nter
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/185
+#EXTINF:-1 tvg-id="" tvg-name="MA:2M.Marroc" tvg-logo="http://gtv.tn/icon/2M.MARROC.jpg" group-title="TUNISIA-ALGERIA-MORROCO",MA:2M.Marroc
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/228
+#EXTINF:-1 tvg-id="" tvg-name="MA:MEDI1" tvg-logo="http://gtv.tn/icon/medi1tv.png" group-title="TUNISIA-ALGERIA-MORROCO",MA:MEDI1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/190
+#EXTINF:-1 tvg-id="" tvg-name="MA:Tamazight" tvg-logo="http://gtv.tn/icon/tamazightmaroc.jpg" group-title="TUNISIA-ALGERIA-MORROCO",MA:Tamazight
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/226
+#EXTINF:-1 tvg-id="" tvg-name="MA:Assadissa" tvg-logo="http://gtv.tn/icon/sadisa.jpg" group-title="TUNISIA-ALGERIA-MORROCO",MA:Assadissa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/209
+#EXTINF:-1 tvg-id="" tvg-name="MA:Arriadhia" tvg-logo="http://gtv.tn/icon/alriyadiya.jpg" group-title="TUNISIA-ALGERIA-MORROCO",MA:Arriadhia
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/208
+#EXTINF:-1 tvg-id="" tvg-name="MA:Alrrabia" tvg-logo="http://gtv.tn/icon/arabiya.jpg" group-title="TUNISIA-ALGERIA-MORROCO",MA:Alrrabia
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/227
+#EXTINF:-1 tvg-id="" tvg-name="MA:Al.Magharibia" tvg-logo="http://gtv.tn/icon/almagharibiatv.png" group-title="TUNISIA-ALGERIA-MORROCO",MA:Al.Magharibia
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/103
+#EXTINF:-1 tvg-id="" tvg-name="MA: GM ALWAN HD" tvg-logo="" group-title="TUNISIA-ALGERIA-MORROCO",MA: GM ALWAN HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24862
+#EXTINF:-1 tvg-id="" tvg-name="MA: GM CHAABI HD" tvg-logo="" group-title="TUNISIA-ALGERIA-MORROCO",MA: GM CHAABI HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24861
+#EXTINF:-1 tvg-id="" tvg-name="MA: GM COMEDIA" tvg-logo="" group-title="TUNISIA-ALGERIA-MORROCO",MA: GM COMEDIA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24860
+#EXTINF:-1 tvg-id="" tvg-name="MA: GM MOVIES HD" tvg-logo="" group-title="TUNISIA-ALGERIA-MORROCO",MA: GM MOVIES HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24859
+#EXTINF:-1 tvg-id="" tvg-name="MA: GM MUSIC HD" tvg-logo="" group-title="TUNISIA-ALGERIA-MORROCO",MA: GM MUSIC HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24858
+#EXTINF:-1 tvg-id="" tvg-name="ALG:Algeria" tvg-logo="http://gtv.tn/icon/aljeri.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:Algeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/1591
+#EXTINF:-1 tvg-id="" tvg-name="ALG:TVA3" tvg-logo="http://gtv.tn/icon/zajyri3.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:TVA3
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/230
+#EXTINF:-1 tvg-id="" tvg-name="ALG:SamiraTV" tvg-logo="http://gtv.tn/icon/samira.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:SamiraTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/241
+#EXTINF:-1 tvg-id="" tvg-name="ALG:Elnnahar" tvg-logo="http://gtv.tn/icon/alnahar.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:Elnnahar
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/242
+#EXTINF:-1 tvg-id="" tvg-name="ALG:ELDJAZAIRIA" tvg-logo="http://gtv.tn/icon/DZair.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:ELDJAZAIRIA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/231
+#EXTINF:-1 tvg-id="" tvg-name="ALG:EchouroukNews" tvg-logo="http://gtv.tn/icon/chourouknws.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:EchouroukNews
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/239
+#EXTINF:-1 tvg-id="" tvg-name="ALG:EchoroukTV" tvg-logo="http://gtv.tn/icon/chrouktv.png" group-title="TUNISIA-ALGERIA-MORROCO",ALG:EchoroukTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/238
+#EXTINF:-1 tvg-id="" tvg-name="ALG:Dzaier" tvg-logo="http://gtv.tn/icon/DZair.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:Dzaier
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/243
+#EXTINF:-1 tvg-id="" tvg-name="ALG:Alhadef" tvg-logo="http://gtv.tn/icon/hadeftv.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:Alhadef
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/235
+#EXTINF:-1 tvg-id="" tvg-name="ALG:Numidia.News" tvg-logo="http://gtv.tn/icon/numidianews.png" group-title="TUNISIA-ALGERIA-MORROCO",ALG:Numidia.News
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/236
+#EXTINF:-1 tvg-id="" tvg-name="ALG:TV 4" tvg-logo="http://gtv.tn/icon/tv4.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:TV 4
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/237
+#EXTINF:-1 tvg-id="" tvg-name="ALG:TV 5 CORAN" tvg-logo="http://gtv.tn/icon/tvcouran.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:TV 5 CORAN
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/7467
+#EXTINF:-1 tvg-id="" tvg-name="ALG:Echourouk-Benna" tvg-logo="http://gtv.tn/icon/bena.jpg" group-title="TUNISIA-ALGERIA-MORROCO",ALG:Echourouk-Benna
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/7523
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Max 1 hd" tvg-logo="" group-title="CHAINES SPORT AR",beIN Sport Max 1 hd
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24643
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Max 1 sd" tvg-logo="" group-title="CHAINES SPORT AR",beIN Sport Max 1 sd
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24644
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Max 2 hd" tvg-logo="" group-title="CHAINES SPORT AR",beIN Sport Max 2 hd
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24645
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Max 2 sd" tvg-logo="" group-title="CHAINES SPORT AR",beIN Sport Max 2 sd
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/24646
+#EXTINF:-1 tvg-id="Bein Sports News" tvg-name="BeinSport.News" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport.News
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/308
+#EXTINF:-1 tvg-id="Bein Sports" tvg-name="BeinSport HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/309
+#EXTINF:-1 tvg-id="BS1HD" tvg-name="BeinSport 1 FULLHD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 1 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/165
+#EXTINF:-1 tvg-id="BS2HD" tvg-name="BeinSport  2 FULLHD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport  2 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/166
+#EXTINF:-1 tvg-id="BS3HD" tvg-name="BeinSport 3 FULLHD" tvg-logo="http://gtv.tn/icon/bein%20sports%203.jpg" group-title="CHAINES SPORT AR",BeinSport 3 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/167
+#EXTINF:-1 tvg-id="BS4HD" tvg-name="BeinSport 4 FULLHD" tvg-logo="http://gtv.tn/icon/bein%20sports%204.jpg" group-title="CHAINES SPORT AR",BeinSport 4 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/168
+#EXTINF:-1 tvg-id="BS5HD" tvg-name="BeinSport 5 FULLHD" tvg-logo="http://gtv.tn/icon/bein%20sports%205.jpg" group-title="CHAINES SPORT AR",BeinSport 5 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/169
+#EXTINF:-1 tvg-id="BS6HD" tvg-name="BeinSport 6 FULLHD" tvg-logo="http://gtv.tn/icon/bein%20sports%206.jpg" group-title="CHAINES SPORT AR",BeinSport 6 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/170
+#EXTINF:-1 tvg-id="BS7HD" tvg-name="BeinSport 7 FULLHD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 7 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/171
+#EXTINF:-1 tvg-id="BS8HD" tvg-name="BeinSport 8 FULLHD" tvg-logo="http://gtv.tn/icon/bein%20sports%208.jpg" group-title="CHAINES SPORT AR",BeinSport 8 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/172
+#EXTINF:-1 tvg-id="BS9HD" tvg-name="BeinSport 9 FULLHD" tvg-logo="http://gtv.tn/icon/bein%20sports%209.jpg" group-title="CHAINES SPORT AR",BeinSport 9 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/330
+#EXTINF:-1 tvg-id="BS10HD" tvg-name="BeinSport 10 FULLHD" tvg-logo="http://gtv.tn/icon/bein%20sports%2010.jpg" group-title="CHAINES SPORT AR",BeinSport 10 FULLHD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/261
+#EXTINF:-1 tvg-id="BS1HD" tvg-name="Bein Sport 1 HD" tvg-logo="" group-title="CHAINES SPORT AR",Bein Sport 1 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3753
+#EXTINF:-1 tvg-id="BS2HD" tvg-name="Bein Sport 2 HD" tvg-logo="" group-title="CHAINES SPORT AR",Bein Sport 2 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3746
+#EXTINF:-1 tvg-id="BS3HD" tvg-name="BeinSport 3 HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 3 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3747
+#EXTINF:-1 tvg-id="BS4HD" tvg-name="BeinSport 4 HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 4 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3754
+#EXTINF:-1 tvg-id="BS5HD" tvg-name="BeinSport 5 HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 5 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3755
+#EXTINF:-1 tvg-id="BS6HD" tvg-name="BeinSport 6 HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 6 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3756
+#EXTINF:-1 tvg-id="BS7HD" tvg-name="BeinSport 7 HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 7 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3757
+#EXTINF:-1 tvg-id="BS8HD" tvg-name="BeinSport 8 HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 8 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3758
+#EXTINF:-1 tvg-id="BS9HD" tvg-name="BeinSport 9 HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 9 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3759
+#EXTINF:-1 tvg-id="BS10HD" tvg-name="BeinSport 10 HD" tvg-logo="" group-title="CHAINES SPORT AR",BeinSport 10 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3760
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="FR: BeIN Sports 1 HD" tvg-logo="http://gtv.tn/icon/Beinsports1.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports 1 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/265
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="FR: BeIN Sports 2 HD" tvg-logo="http://gtv.tn/icon/Beinsports2.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports 2 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/266
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="FR: BeIN Sports 3 HD" tvg-logo="http://gtv.tn/icon/Beinsports3.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports 3 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/267
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_access1.png" group-title="CHAINES SPORTS FR",FR: RMC SPORT 1 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/13690
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 2 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/13807
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 3 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/13808
+#EXTINF:-1 tvg-id="SFRSport5.fr" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="https://www.firstonetv.net/images/logos/fr/RMCSPORT4.png" group-title="CHAINES SPORTS FR",FR: RMC SPORT 4 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5122
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 5 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18059
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 6 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 6 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18060
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 7 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 7 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18061
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 8 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18538
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 9 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18537
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 10 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 10 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18536
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 11 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 11 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18535
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 12 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 12 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18534
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 13 HD" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT 13 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18533
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT NEWS" tvg-logo="" group-title="CHAINES SPORTS FR",FR: RMC SPORT NEWS
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/13809
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="FR: RMC ACCESS SPORT 1 HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_access1.png" group-title="CHAINES SPORTS FR",FR: RMC ACCESS SPORT 1 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5118
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="FR: RMC ACCESS SPORT 2 HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_access2.png" group-title="CHAINES SPORTS FR",FR: RMC ACCESS SPORT 2 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5119
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="FR: RMC ACCESS SPORT 3 HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_access3.png" group-title="CHAINES SPORTS FR",FR: RMC ACCESS SPORT 3 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5121
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 4 FR" tvg-name="FR: BeIN Sports MAX 4 HD" tvg-logo="http://gtv.tn/icon/beINSPORTSMAX4.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports MAX 4 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/4058
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5 FR" tvg-name="FR: BeIN Sports MAX 5 HD" tvg-logo="http://gtv.tn/icon/beINSPORTSMAX5.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports MAX 5 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/4057
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6 FR" tvg-name="FR: BeIN Sports MAX 6 HD" tvg-logo="http://gtv.tn/icon/beINSPORTSMAX6.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports MAX 6 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/4056
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7 FR" tvg-name="FR: BeIN Sports MAX 7 HD" tvg-logo="http://gtv.tn/icon/beINSPORTSMAX7.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports MAX 7 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/4055
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 10 FR" tvg-name="FR: BeIN Sports MAX 10 HD" tvg-logo="http://gtv.tn/icon/beIN-SPORTS-MAX-10.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports MAX 10 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/4052
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8 FR" tvg-name="FR: BeIN Sports MAX 8 HD" tvg-logo="http://gtv.tn/icon/beINSPORTSMAX8.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports MAX 8 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/4054
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 9 FR" tvg-name="FR: BeIN Sports MAX 9 HD" tvg-logo="http://gtv.tn/icon/beINSPORTSMAX9.jpg" group-title="CHAINES SPORTS FR",FR: BeIN Sports MAX 9 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/4053
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="http://gtv.tn/icon/CANALplusSPORT.jpg" group-title="CHAINES SPORTS FR",FR: CANAL+ SPORT HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/204
+#EXTINF:-1 tvg-id="L EQUIPE" tvg-name="FR:L'EQUIPE21" tvg-logo="http://gtv.tn/icon/Equipe21.jpg" group-title="CHAINES SPORTS FR",FR:L'EQUIPE21
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/1516
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR: Eurosport 1" tvg-logo="http://gtv.tn/icon/eurosport1.jpg" group-title="CHAINES SPORTS FR",FR: Eurosport 1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/360
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="FR: Eurosport 2" tvg-logo="http://gtv.tn/icon/eurosport2.jpg" group-title="CHAINES SPORTS FR",FR: Eurosport 2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/361
+#EXTINF:-1 tvg-id="FOOT+ 24/24" tvg-name="FR:FOOT24" tvg-logo="http://gtv.tn/icon/Foot24.jpg" group-title="CHAINES SPORTS FR",FR:FOOT24
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/264
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="FR: EXTREME SPORTS" tvg-logo="http://gtv.tn/icon/extremsport.jpg" group-title="CHAINES SPORTS FR",FR: EXTREME SPORTS
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/6750
+#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="FR:GOLF" tvg-logo="http://gtv.tn/icon/colef+.jpg" group-title="CHAINES SPORTS FR",FR:GOLF
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5063
+#EXTINF:-1 tvg-id="Golf+ HD FR" tvg-name="FR: GOLF +" tvg-logo="http://gtv.tn/logo/golfplus.png" group-title="CHAINES SPORTS FR",FR: GOLF +
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/6754
+#EXTINF:-1 tvg-id="Infosport+" tvg-name="FR:InfoSport+" tvg-logo="http://gtv.tn/icon/infosport.jpg" group-title="CHAINES SPORTS FR",FR:InfoSport+
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/284
+#EXTINF:-1 tvg-id="" tvg-name="BE:Teleclub Sport 1" tvg-logo="" group-title="CHAINES BELGE",BE:Teleclub Sport 1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/7448
+#EXTINF:-1 tvg-id="" tvg-name="BE:Teleclub Sport 2" tvg-logo="" group-title="CHAINES BELGE",BE:Teleclub Sport 2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/7447
+#EXTINF:-1 tvg-id="" tvg-name="BE:Voo Sport 1 HD" tvg-logo="" group-title="CHAINES BELGE",BE:Voo Sport 1 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/7435
+#EXTINF:-1 tvg-id="" tvg-name="BE:Voo Sport 2 HD" tvg-logo="" group-title="CHAINES BELGE",BE:Voo Sport 2 HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/7413
+#EXTINF:-1 tvg-id="" tvg-name="BE:VOO_SPORT" tvg-logo="" group-title="CHAINES BELGE",BE:VOO_SPORT
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5075
+#EXTINF:-1 tvg-id="" tvg-name="BE:VOO_SPORTWORLD_1" tvg-logo="" group-title="CHAINES BELGE",BE:VOO_SPORTWORLD_1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/7437
+#EXTINF:-1 tvg-id="" tvg-name="AR:KSA SPORT 1" tvg-logo="" group-title="CHAINES SPORT AR",AR:KSA SPORT 1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/10828
+#EXTINF:-1 tvg-id="" tvg-name="AR:KSA SPORT 2" tvg-logo="" group-title="CHAINES SPORT AR",AR:KSA SPORT 2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/10845
+#EXTINF:-1 tvg-id="" tvg-name="AR:Dubai.Sport2" tvg-logo="" group-title="CHAINES SPORT AR",AR:Dubai.Sport2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5873
+#EXTINF:-1 tvg-id="" tvg-name="AR:KASS1_HD" tvg-logo="" group-title="CHAINES SPORT AR",AR:KASS1_HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3607
+#EXTINF:-1 tvg-id="" tvg-name="AR:KASS2_HD" tvg-logo="" group-title="CHAINES SPORT AR",AR:KASS2_HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3608
+#EXTINF:-1 tvg-id="" tvg-name="AR:KASS3_HD" tvg-logo="" group-title="CHAINES SPORT AR",AR:KASS3_HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18488
+#EXTINF:-1 tvg-id="" tvg-name="AR:KASS4_HD" tvg-logo="" group-title="CHAINES SPORT AR",AR:KASS4_HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/3609
+#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Sport" tvg-logo="" group-title="CHAINES SPORT AR",AR: Libya Sport
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/18494
+#EXTINF:-1 tvg-id="" tvg-name="AR:ONSPORT" tvg-logo="" group-title="CHAINES SPORT AR",AR:ONSPORT
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/5144
+#EXTINF:-1 tvg-id="" tvg-name="AR:Ad.Sport1" tvg-logo="" group-title="CHAINES SPORT AR",AR:Ad.Sport1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/465
+#EXTINF:-1 tvg-id="" tvg-name="AR:AD.SPORT2" tvg-logo="" group-title="CHAINES SPORT AR",AR:AD.SPORT2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/594
+#EXTINF:-1 tvg-id="" tvg-name="AR:NileSport" tvg-logo="http://gtv.tn/icon/nilsport.png" group-title="CHAINES SPORT AR",AR:NileSport
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/421
+#EXTINF:-1 tvg-id="" tvg-name="AR:Al.AhlyTV" tvg-logo="" group-title="CHAINES SPORT AR",AR:Al.AhlyTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/602
+#EXTINF:-1 tvg-id="" tvg-name="AR:Dubai Racing 2" tvg-logo="" group-title="CHAINES ARAB",AR:Dubai Racing 2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/8915
+#EXTINF:-1 tvg-id="" tvg-name="AR:Dubai.Sport1" tvg-logo="" group-title="CHAINES SPORT AR",AR:Dubai.Sport1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/1276
+#EXTINF:-1 tvg-id="" tvg-name="AR:MBC.SPORT1" tvg-logo="" group-title="CHAINES SPORT AR",AR:MBC.SPORT1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/461
+#EXTINF:-1 tvg-id="" tvg-name="AR:MBC.SPORT2" tvg-logo="" group-title="CHAINES SPORT AR",AR:MBC.SPORT2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/462
+#EXTINF:-1 tvg-id="" tvg-name="AR:MBC.SPORT3" tvg-logo="" group-title="CHAINES SPORT AR",AR:MBC.SPORT3
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/463
+#EXTINF:-1 tvg-id="" tvg-name="AR:MBC.SPORT4" tvg-logo="" group-title="CHAINES SPORT AR",AR:MBC.SPORT4
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/464
+#EXTINF:-1 tvg-id="" tvg-name="AR:Palestine Sport" tvg-logo="http://gtv.tn/icon/falastinsoprt.jpg" group-title="CHAINES ARAB",AR:Palestine Sport
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/8905
+#EXTINF:-1 tvg-id="" tvg-name="AR:Saudia Sport 1" tvg-logo="http://gtv.tn/icon/sport1.jpg" group-title="CHAINES ARAB",AR:Saudia Sport 1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/8894
+#EXTINF:-1 tvg-id="" tvg-name="AR:Saoudia-Sport 1HD" tvg-logo="" group-title="CHAINES SPORT AR",AR:Saoudia-Sport 1HD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/10800
+#EXTINF:-1 tvg-id="" tvg-name="AF:  2S TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  2S TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21588
+#EXTINF:-1 tvg-id="" tvg-name="AF:  A2i TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  A2i TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21573
+#EXTINF:-1 tvg-id="" tvg-name="AF:  A2i TV Religion" tvg-logo="" group-title="CHAINES AFRICA",AF:  A2i TV Religion
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21572
+#EXTINF:-1 tvg-id="" tvg-name="AF:  A2ITV MUSIC" tvg-logo="" group-title="CHAINES AFRICA",AF:  A2ITV MUSIC
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21571
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Afro Music" tvg-logo="" group-title="CHAINES AFRICA",AF:  Afro Music
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21589
+#EXTINF:-1 tvg-id="" tvg-name="AF:  AsfiyahiTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  AsfiyahiTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21582
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Bblack Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:  Bblack Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21597
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Bblack Carrabean" tvg-logo="" group-title="CHAINES AFRICA",AF:  Bblack Carrabean
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21596
+#EXTINF:-1 tvg-id="" tvg-name="AF:  BBlack Classik" tvg-logo="" group-title="CHAINES AFRICA",AF:  BBlack Classik
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21595
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Bichri TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Bichri TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21568
+#EXTINF:-1 tvg-id="" tvg-name="AF:  D24" tvg-logo="" group-title="CHAINES AFRICA",AF:  D24
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21566
+#EXTINF:-1 tvg-id="" tvg-name="AF:  D5TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  D5TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21567
+#EXTINF:-1 tvg-id="" tvg-name="AF:  DBMTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  DBMTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21590
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Digital Black Music" tvg-logo="" group-title="CHAINES AFRICA",AF:  Digital Black Music
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21592
+#EXTINF:-1 tvg-id="" tvg-name="AF:  DTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  DTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21565
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hit TV Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hit TV Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21591
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Lamp Fall TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Lamp Fall TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21581
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TRACE AFRICA" tvg-logo="" group-title="CHAINES AFRICA",AF:  TRACE AFRICA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21604
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TRACE GOSPEL" tvg-logo="" group-title="CHAINES AFRICA",AF:  TRACE GOSPEL
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21603
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TRACE MISIKI" tvg-logo="" group-title="CHAINES AFRICA",AF:  TRACE MISIKI
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21602
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Trace Naija" tvg-logo="" group-title="CHAINES AFRICA",AF:  Trace Naija
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21601
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TRACE TOPICAL" tvg-logo="" group-title="CHAINES AFRICA",AF:  TRACE TOPICAL
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21600
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Ghana Broadcasting Corporation" tvg-logo="" group-title="CHAINES AFRICA",AF:   Ghana Broadcasting Corporation
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21631
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GTV  GHANA" tvg-logo="" group-title="CHAINES AFRICA",AF:  GTV  GHANA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21626
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GTV 2 TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  GTV 2 TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21625
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GTV GOV  TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  GTV GOV  TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21657
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GTV SPORTS" tvg-logo="" group-title="CHAINES AFRICA",AF:  GTV SPORTS
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21635
+#EXTINF:-1 tvg-id="" tvg-name="AF:  PENTV GHANA" tvg-logo="" group-title="CHAINES AFRICA",AF:  PENTV GHANA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21633
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RDV" tvg-logo="" group-title="CHAINES AFRICA",AF:  RDV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21699
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ROK TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  ROK TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21630
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ROYAL TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  ROYAL TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21653
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTNC" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTNC
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21689
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTV (ghana)" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTV (ghana)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21662
+#EXTINF:-1 tvg-id="" tvg-name="AF:  tv3 ghana" tvg-logo="" group-title="CHAINES AFRICA",AF:  tv3 ghana
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21623
+#EXTINF:-1 tvg-id="" tvg-name="AF:  UTV Ghana" tvg-logo="" group-title="CHAINES AFRICA",AF:  UTV Ghana
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21640
+#EXTINF:-1 tvg-id="" tvg-name="AF:  VOX TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  VOX TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21686
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Voxafrica local" tvg-logo="" group-title="CHAINES AFRICA",AF:  Voxafrica local
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21672
+#EXTINF:-1 tvg-id="" tvg-name="AF:  WES AFRICA TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  WES AFRICA TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21679
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GH Canada TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  GH Canada TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21755
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GHTV HOLLAND" tvg-logo="" group-title="CHAINES AFRICA",AF:  GHTV HOLLAND
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21741
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Almouridiya tv" tvg-logo="" group-title="CHAINES AFRICA",AF:   Almouridiya tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21583
+#EXTINF:-1 tvg-id="" tvg-name="AF:  LOBS TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  LOBS TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21580
+#EXTINF:-1 tvg-id="" tvg-name="AF:  M7 Mali" tvg-logo="" group-title="CHAINES AFRICA",AF:  M7 Mali
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21606
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MusicTV Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:  MusicTV Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21579
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MusicTV SN" tvg-logo="" group-title="CHAINES AFRICA",AF:  MusicTV SN
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21578
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ORTB" tvg-logo="" group-title="CHAINES AFRICA",AF:  ORTB
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21609
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ORTM" tvg-logo="" group-title="CHAINES AFRICA",AF:  ORTM
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21610
+#EXTINF:-1 tvg-id="" tvg-name="AF:  People TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  People TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21584
+#EXTINF:-1 tvg-id="" tvg-name="AF:  QacaidTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  QacaidTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21577
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTB" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTB
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21608
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTI1" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTI1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21575
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTI2" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTI2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21574
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTS1" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTS1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21587
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTS2" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTS2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21586
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Sanga music" tvg-logo="" group-title="CHAINES AFRICA",AF:  Sanga music
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21594
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Sanga Novlas" tvg-logo="" group-title="CHAINES AFRICA",AF:  Sanga Novlas
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21593
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SEN TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  SEN TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21585
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TFM" tvg-logo="" group-title="CHAINES AFRICA",AF:  TFM
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21570
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TFM  Religions" tvg-logo="" group-title="CHAINES AFRICA",AF:  TFM  Religions
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21569
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TM2" tvg-logo="" group-title="CHAINES AFRICA",AF:  TM2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21607
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Touba Monde Bi" tvg-logo="" group-title="CHAINES AFRICA",AF:  Touba Monde Bi
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21576
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Vision 4 TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   Vision 4 TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21696
+#EXTINF:-1 tvg-id="" tvg-name="AF:  DoveTV Nigeria" tvg-logo="" group-title="CHAINES AFRICA",AF:  DoveTV Nigeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21967
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Dunamis TV Nigeria" tvg-logo="" group-title="CHAINES AFRICA",AF:  Dunamis TV Nigeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21963
+#EXTINF:-1 tvg-id="" tvg-name="AF:  More Grace TV Nigeria" tvg-logo="" group-title="CHAINES AFRICA",AF:  More Grace TV Nigeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21975
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TOUBA TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  TOUBA TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21564
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Trace Urbaine" tvg-logo="" group-title="CHAINES AFRICA",AF:  Trace Urbaine
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21599
+#EXTINF:-1 tvg-id="" tvg-name="AF:  WALF TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  WALF TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21563
+#EXTINF:-1 tvg-id="" tvg-name="AF:   AIT" tvg-logo="" group-title="CHAINES AFRICA",AF:   AIT
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21621
+#EXTINF:-1 tvg-id="" tvg-name="AF:   AkonobeaTV  GHANA" tvg-logo="" group-title="CHAINES AFRICA",AF:   AkonobeaTV  GHANA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21645
+#EXTINF:-1 tvg-id="" tvg-name="AF:   ALJAZEERA" tvg-logo="" group-title="CHAINES AFRICA",AF:   ALJAZEERA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21647
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Comedy Channel" tvg-logo="" group-title="CHAINES AFRICA",AF:   Comedy Channel
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21620
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Dunamis TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   Dunamis TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21619
+#EXTINF:-1 tvg-id="" tvg-name="AF:   EBONYLIFE TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   EBONYLIFE TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21618
+#EXTINF:-1 tvg-id="" tvg-name="AF:   EMCI TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   EMCI TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21617
+#EXTINF:-1 tvg-id="" tvg-name="AF:   ET" tvg-logo="" group-title="CHAINES AFRICA",AF:   ET
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21616
+#EXTINF:-1 tvg-id="" tvg-name="AF:   FuFu Kitchen" tvg-logo="" group-title="CHAINES AFRICA",AF:   FuFu Kitchen
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21615
+#EXTINF:-1 tvg-id="" tvg-name="AF:   GISPORTSTV" tvg-logo="" group-title="CHAINES AFRICA",AF:   GISPORTSTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21624
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Hope Channel Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:   Hope Channel Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21614
+#EXTINF:-1 tvg-id="" tvg-name="AF:   ITV Networks" tvg-logo="" group-title="CHAINES AFRICA",AF:   ITV Networks
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21613
+#EXTINF:-1 tvg-id="" tvg-name="AF:   LIGHT TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   LIGHT TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21612
+#EXTINF:-1 tvg-id="" tvg-name="AF:   PIWC APOSTLE" tvg-logo="" group-title="CHAINES AFRICA",AF:   PIWC APOSTLE
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21648
+#EXTINF:-1 tvg-id="" tvg-name="AF:   PIWC AUSTIN" tvg-logo="" group-title="CHAINES AFRICA",AF:   PIWC AUSTIN
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21649
+#EXTINF:-1 tvg-id="" tvg-name="AF:   PIWC AUSTIN SERMON" tvg-logo="" group-title="CHAINES AFRICA",AF:   PIWC AUSTIN SERMON
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21650
+#EXTINF:-1 tvg-id="" tvg-name="AF:   PIWC AUSTIN WORSHIP" tvg-logo="" group-title="CHAINES AFRICA",AF:   PIWC AUSTIN WORSHIP
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21651
+#EXTINF:-1 tvg-id="" tvg-name="AF:   STUDIO1 TV (ghana)" tvg-logo="" group-title="CHAINES AFRICA",AF:   STUDIO1 TV (ghana)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21636
+#EXTINF:-1 tvg-id="" tvg-name="AF:  3ABN Français" tvg-logo="" group-title="CHAINES AFRICA",AF:  3ABN Français
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21637
+#EXTINF:-1 tvg-id="" tvg-name="AF:  3ABN International" tvg-logo="" group-title="CHAINES AFRICA",AF:  3ABN International
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21638
+#EXTINF:-1 tvg-id="" tvg-name="AF:  3ABN KIDS" tvg-logo="" group-title="CHAINES AFRICA",AF:  3ABN KIDS
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21639
+#EXTINF:-1 tvg-id="" tvg-name="AF:  7Entertainment" tvg-logo="" group-title="CHAINES AFRICA",AF:  7Entertainment
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21676
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hope Channel Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hope Channel Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21643
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ImpacTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  ImpacTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21669
+#EXTINF:-1 tvg-id="" tvg-name="AF:  JOY NEWS  GHANA" tvg-logo="" group-title="CHAINES AFRICA",AF:  JOY NEWS  GHANA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21628
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Joy News Ghana AF" tvg-logo="" group-title="CHAINES AFRICA",AF:  Joy News Ghana AF
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21641
+#EXTINF:-1 tvg-id="" tvg-name="AF:  JOY PRIME GHANA" tvg-logo="" group-title="CHAINES AFRICA",AF:  JOY PRIME GHANA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21629
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Ghana KessbenTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Ghana KessbenTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21646
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Tele Colombe" tvg-logo="" group-title="CHAINES AFRICA",AF:  Tele Colombe
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21667
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TELE congo" tvg-logo="" group-title="CHAINES AFRICA",AF:  TELE congo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21688
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MourchidTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  MourchidTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21698
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Cine Plus Africa Ghana" tvg-logo="" group-title="CHAINES AFRICA",AF:  Cine Plus Africa Ghana
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21655
+#EXTINF:-1 tvg-id="" tvg-name="AF:  7TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  7TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21701
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Horn Cable TV (SOMALIA)" tvg-logo="" group-title="CHAINES AFRICA",AF:  Horn Cable TV (SOMALIA)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21915
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Jubbaland Somali" tvg-logo="" group-title="CHAINES AFRICA",AF:  Jubbaland Somali
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21914
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Jubbaland TV (SOMALIA°" tvg-logo="" group-title="CHAINES AFRICA",AF:  Jubbaland TV (SOMALIA°
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21913
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Puntland TV (somalia)" tvg-logo="" group-title="CHAINES AFRICA",AF:  Puntland TV (somalia)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21912
+#EXTINF:-1 tvg-id="" tvg-name="AF:  QTV Gambia" tvg-logo="" group-title="CHAINES AFRICA",AF:  QTV Gambia
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21796
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Saab Somali TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Saab Somali TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21902
+#EXTINF:-1 tvg-id="" tvg-name="AF:  salaam tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  salaam tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21726
+#EXTINF:-1 tvg-id="" tvg-name="AF:  SALSA TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  SALSA TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21815
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Smile TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Smile TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21816
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Somali Dayax TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Somali Dayax TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21908
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Somali National TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Somali National TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21900
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Somalia PLTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Somalia PLTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21910
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Somalia SLN TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Somalia SLN TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21909
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Universal Somali TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Universal Somali TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21903
+#EXTINF:-1 tvg-id="" tvg-name="AF: Eryal TV ( Somalia tv  )" tvg-logo="" group-title="CHAINES AFRICA",AF: Eryal TV ( Somalia tv  )
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21904
+#EXTINF:-1 tvg-id="" tvg-name="AF: So-Quran Hidayah Somali" tvg-logo="" group-title="CHAINES AFRICA",AF: So-Quran Hidayah Somali
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21905
+#EXTINF:-1 tvg-id="" tvg-name="AF: TV Slovenija 3 (somalia)" tvg-logo="" group-title="CHAINES AFRICA",AF: TV Slovenija 3 (somalia)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21911
+#EXTINF:-1 tvg-id="" tvg-name="AF:  adom tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  adom tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21634
+#EXTINF:-1 tvg-id="" tvg-name="AF:  AFRICA NEWS" tvg-logo="" group-title="CHAINES AFRICA",AF:  AFRICA NEWS
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21673
+#EXTINF:-1 tvg-id="" tvg-name="AF:  africacable" tvg-logo="" group-title="CHAINES AFRICA",AF:  africacable
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21677
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Africanews (ferance)" tvg-logo="" group-title="CHAINES AFRICA",AF:  Africanews (ferance)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21674
+#EXTINF:-1 tvg-id="" tvg-name="AF:   ACBN  (nijer)" tvg-logo="" group-title="CHAINES AFRICA",AF:   ACBN  (nijer)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21989
+#EXTINF:-1 tvg-id="" tvg-name="AF:   AFRICAN ENTERTAIMENT TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   AFRICAN ENTERTAIMENT TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21992
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Afrique Media TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Afrique Media TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21675
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ANTENNE A" tvg-logo="" group-title="CHAINES AFRICA",AF:  ANTENNE A
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21693
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ASAEDA TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  ASAEDA TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21654
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ATINKA TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  ATINKA TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21663
+#EXTINF:-1 tvg-id="" tvg-name="AF:  B-ONE" tvg-logo="" group-title="CHAINES AFRICA",AF:  B-ONE
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21692
+#EXTINF:-1 tvg-id="" tvg-name="AF:  BEN" tvg-logo="" group-title="CHAINES AFRICA",AF:  BEN
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21642
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CANAL2" tvg-logo="" group-title="CHAINES AFRICA",AF:  CANAL2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21681
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CANAL2 MOVIES" tvg-logo="" group-title="CHAINES AFRICA",AF:  CANAL2 MOVIES
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21680
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MyHolyfield TV Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  MyHolyfield TV Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21750
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MyJam Music Network" tvg-logo="" group-title="CHAINES AFRICA",AF:  MyJam Music Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21789
+#EXTINF:-1 tvg-id="" tvg-name="AF:  nPowered TV Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  nPowered TV Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21720
+#EXTINF:-1 tvg-id="" tvg-name="AF:  NTA LIVE TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  NTA LIVE TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21959
+#EXTINF:-1 tvg-id="" tvg-name="AF:  NTV Uganda" tvg-logo="" group-title="CHAINES AFRICA",AF:  NTV Uganda
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21785
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Nw INFO 1 Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Nw INFO 1 Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21947
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Nw INFO 2 Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Nw INFO 2 Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21946
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Nw magazine Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Nw magazine Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21944
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Nw Muzik Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Nw Muzik Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21943
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Nw Transnat Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Nw Transnat Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21945
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Opportunity Knocks Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Opportunity Knocks Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21736
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Movee 4U  Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Movee 4U  Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21768
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Cosmos tv togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Cosmos tv togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21724
+#EXTINF:-1 tvg-id="" tvg-name="AF:  My Life 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  My Life 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21766
+#EXTINF:-1 tvg-id="" tvg-name="AF:  OROMIA TV ETHIOPIA" tvg-logo="" group-title="CHAINES AFRICA",AF:  OROMIA TV ETHIOPIA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21887
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Promise TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Promise TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21800
+#EXTINF:-1 tvg-id="" tvg-name="AF: Gospel Channel (Nigeria)" tvg-logo="" group-title="CHAINES AFRICA",AF: Gospel Channel (Nigeria)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21950
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV Continental Nigeria" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV Continental Nigeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21962
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV Maná Maputo (mozanbi9)" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV Maná Maputo (mozanbi9)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21866
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV Miramar (Mozambique)" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV Miramar (Mozambique)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21865
+#EXTINF:-1 tvg-id="" tvg-name="AF:    TV Maná Maputo (Mozambique)" tvg-logo="" group-title="CHAINES AFRICA",AF:    TV Maná Maputo (Mozambique)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21864
+#EXTINF:-1 tvg-id="" tvg-name="AF: Zim News 24 (Zimbabwe)" tvg-logo="" group-title="CHAINES AFRICA",AF: Zim News 24 (Zimbabwe)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21707
+#EXTINF:-1 tvg-id="" tvg-name="AF:  EQUINOXE CAMEROUN" tvg-logo="" group-title="CHAINES AFRICA",AF:  EQUINOXE CAMEROUN
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21684
+#EXTINF:-1 tvg-id="" tvg-name="AF:  tv Zimbo angola" tvg-logo="" group-title="CHAINES AFRICA",AF:  tv Zimbo angola
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21842
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CFTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  CFTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21810
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CGTN Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:  CGTN Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21877
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CGTN English" tvg-logo="" group-title="CHAINES AFRICA",AF:  CGTN English
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21878
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CGTN FRANCE" tvg-logo="" group-title="CHAINES AFRICA",AF:  CGTN FRANCE
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21879
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Channels24 Nigeria" tvg-logo="" group-title="CHAINES AFRICA",AF:  Channels24 Nigeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21952
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Congo Planet" tvg-logo="" group-title="CHAINES AFRICA",AF:  Congo Planet
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21694
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Tv Pitchoun" tvg-logo="" group-title="CHAINES AFRICA",AF:  Tv Pitchoun
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21728
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV360" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV360
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21964
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV5 Afrique" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV5 Afrique
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21873
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV5 MONDE" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV5 MONDE
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21872
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV7 Colmar" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV7 Colmar
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21871
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TvFrancophonie24" tvg-logo="" group-title="CHAINES AFRICA",AF:  TvFrancophonie24
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21870
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TVM est Parisien" tvg-logo="" group-title="CHAINES AFRICA",AF:  TVM est Parisien
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21702
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TVM1" tvg-logo="" group-title="CHAINES AFRICA",AF:  TVM1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21863
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TVM2" tvg-logo="" group-title="CHAINES AFRICA",AF:  TVM2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21862
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Congo Planete tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  Congo Planete tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21695
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CRTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  CRTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21683
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CRTV NEWS" tvg-logo="" group-title="CHAINES AFRICA",AF:  CRTV NEWS
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21682
+#EXTINF:-1 tvg-id="" tvg-name="AF:  DRTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  DRTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21691
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ELIJAH TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  ELIJAH TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21664
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Emmanuel TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Emmanuel TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21644
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Espace TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Espace TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21668
+#EXTINF:-1 tvg-id="" tvg-name="AF:  France info" tvg-logo="" group-title="CHAINES AFRICA",AF:  France info
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21670
+#EXTINF:-1 tvg-id="" tvg-name="AF:  France24" tvg-logo="" group-title="CHAINES AFRICA",AF:  France24
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21666
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GBC24" tvg-logo="" group-title="CHAINES AFRICA",AF:  GBC24
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21656
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GH ONE TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  GH ONE TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21627
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ghtva broad" tvg-logo="" group-title="CHAINES AFRICA",AF:  ghtva broad
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21632
+#EXTINF:-1 tvg-id="" tvg-name="AF:  HOMEBASETV" tvg-logo="" group-title="CHAINES AFRICA",AF:  HOMEBASETV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21660
+#EXTINF:-1 tvg-id="" tvg-name="AF:  mouridetv" tvg-logo="" group-title="CHAINES AFRICA",AF:  mouridetv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21697
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MY COMEDY" tvg-logo="" group-title="CHAINES AFRICA",AF:  MY COMEDY
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21678
+#EXTINF:-1 tvg-id="" tvg-name="AF:  OBICE TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  OBICE TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21658
+#EXTINF:-1 tvg-id="" tvg-name="AF:  OBONUTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  OBONUTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21659
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Ouest TV LOCAL" tvg-logo="" group-title="CHAINES AFRICA",AF:  Ouest TV LOCAL
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21685
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Suivez  SIKKA" tvg-logo="" group-title="CHAINES AFRICA",AF:  Suivez  SIKKA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21671
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Tele 50" tvg-logo="" group-title="CHAINES AFRICA",AF:  Tele 50
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21690
+#EXTINF:-1 tvg-id="" tvg-name="AF:   SBC TV  SOMALI" tvg-logo="" group-title="CHAINES AFRICA",AF:   SBC TV  SOMALI
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21901
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TELE SUD" tvg-logo="" group-title="CHAINES AFRICA",AF:  TELE SUD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21700
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TOP TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  TOP TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21687
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV AFRICA" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV AFRICA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21652
+#EXTINF:-1 tvg-id="" tvg-name="AF: Music TV Plus" tvg-logo="" group-title="CHAINES AFRICA",AF: Music TV Plus
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21661
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Better Life TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   Better Life TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21856
+#EXTINF:-1 tvg-id="" tvg-name="AF:   CHELSEA TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   CHELSEA TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21999
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Chiconi TV (Mayotte )" tvg-logo="" group-title="CHAINES AFRICA",AF:   Chiconi TV (Mayotte )
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21852
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Dream Tv Network" tvg-logo="" group-title="CHAINES AFRICA",AF:   Dream Tv Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21851
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Eko4Show" tvg-logo="" group-title="CHAINES AFRICA",AF:   Eko4Show
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21977
+#EXTINF:-1 tvg-id="" tvg-name="AF:   El Camino (Eritrea)" tvg-logo="" group-title="CHAINES AFRICA",AF:   El Camino (Eritrea)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21828
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Enlace" tvg-logo="" group-title="CHAINES AFRICA",AF:   Enlace
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21849
+#EXTINF:-1 tvg-id="" tvg-name="AF:   ETN" tvg-logo="" group-title="CHAINES AFRICA",AF:   ETN
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21850
+#EXTINF:-1 tvg-id="" tvg-name="AF:   ETV entertainment (EBC3)" tvg-logo="" group-title="CHAINES AFRICA",AF:   ETV entertainment (EBC3)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21888
+#EXTINF:-1 tvg-id="" tvg-name="AF:   ETV LANGUAGE (ebc2)" tvg-logo="" group-title="CHAINES AFRICA",AF:   ETV LANGUAGE (ebc2)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21889
+#EXTINF:-1 tvg-id="" tvg-name="AF:   ETV NEWS (EBC1)" tvg-logo="" group-title="CHAINES AFRICA",AF:   ETV NEWS (EBC1)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21890
+#EXTINF:-1 tvg-id="" tvg-name="AF:   faith Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:   faith Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21857
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Gospel Music and Productions" tvg-logo="" group-title="CHAINES AFRICA",AF:   Gospel Music and Productions
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21858
+#EXTINF:-1 tvg-id="" tvg-name="AF:   IBN TV Africa (Tanzania)" tvg-logo="" group-title="CHAINES AFRICA",AF:   IBN TV Africa (Tanzania)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21762
+#EXTINF:-1 tvg-id="" tvg-name="AF: Kalsan TV Somali AF" tvg-logo="" group-title="CHAINES AFRICA",AF: Kalsan TV Somali AF
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21907
+#EXTINF:-1 tvg-id="" tvg-name="AF: UBN TV( South Africa)" tvg-logo="" group-title="CHAINES AFRICA",AF: UBN TV( South Africa)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21711
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Life Destiny TV South Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:  Life Destiny TV South Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21966
+#EXTINF:-1 tvg-id="" tvg-name="AF:  BF1" tvg-logo="" group-title="CHAINES AFRICA",AF:  BF1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21737
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Biafra Nigeria" tvg-logo="" group-title="CHAINES AFRICA",AF:  Biafra Nigeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21981
+#EXTINF:-1 tvg-id="" tvg-name="AF:  biptv." tvg-logo="" group-title="CHAINES AFRICA",AF:  biptv.
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21716
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Black Music Artist TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Black Music Artist TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21808
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Bride  tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  Bride  tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21980
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Bride TV Nigeria" tvg-logo="" group-title="CHAINES AFRICA",AF:  Bride TV Nigeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21984
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Bulsho Somali TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Bulsho Somali TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21917
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Africa International University tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  Africa International University tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21921
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Africa TV1" tvg-logo="" group-title="CHAINES AFRICA",AF:  Africa TV1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21929
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Africa TV2" tvg-logo="" group-title="CHAINES AFRICA",AF:  Africa TV2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21928
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Africa TV3" tvg-logo="" group-title="CHAINES AFRICA",AF:  Africa TV3
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21927
+#EXTINF:-1 tvg-id="" tvg-name="AF:  AFRICA24" tvg-logo="" group-title="CHAINES AFRICA",AF:  AFRICA24
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21926
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Inooro TV ( Kenya)" tvg-logo="" group-title="CHAINES AFRICA",AF:   Inooro TV ( Kenya)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21793
+#EXTINF:-1 tvg-id="" tvg-name="AF:   KANA TV ETHIOPIA" tvg-logo="" group-title="CHAINES AFRICA",AF:   KANA TV ETHIOPIA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21886
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Kenya CitizenTV" tvg-logo="" group-title="CHAINES AFRICA",AF:   Kenya CitizenTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21940
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Kingdom Impact Ministry" tvg-logo="" group-title="CHAINES AFRICA",AF:   Kingdom Impact Ministry
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21859
+#EXTINF:-1 tvg-id="" tvg-name="AF:   KingswordInfoTV" tvg-logo="" group-title="CHAINES AFRICA",AF:   KingswordInfoTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/22000
+#EXTINF:-1 tvg-id="" tvg-name="AF:   KTN KENYA" tvg-logo="" group-title="CHAINES AFRICA",AF:   KTN KENYA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21941
+#EXTINF:-1 tvg-id="" tvg-name="AF:   KTV" tvg-logo="" group-title="CHAINES AFRICA",AF:   KTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21939
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Let’s Talk About It" tvg-logo="" group-title="CHAINES AFRICA",AF:   Let’s Talk About It
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21706
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Metro TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   Metro TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/22001
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Movee4U Tv Network" tvg-logo="" group-title="CHAINES AFRICA",AF:   Movee4U Tv Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21997
+#EXTINF:-1 tvg-id="" tvg-name="AF:   New Beginning Tv Network" tvg-logo="" group-title="CHAINES AFRICA",AF:   New Beginning Tv Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21998
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Nollywood Movies channel" tvg-logo="" group-title="CHAINES AFRICA",AF:   Nollywood Movies channel
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21993
+#EXTINF:-1 tvg-id="" tvg-name="AF:   NRB TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   NRB TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21860
+#EXTINF:-1 tvg-id="" tvg-name="AF:   NTA NEWS" tvg-logo="" group-title="CHAINES AFRICA",AF:   NTA NEWS
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21960
+#EXTINF:-1 tvg-id="" tvg-name="AF:   NUSMILES TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   NUSMILES TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21986
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Omdurman TV Sudan" tvg-logo="" group-title="CHAINES AFRICA",AF:   Omdurman TV Sudan
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21920
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Once Spoken Network" tvg-logo="" group-title="CHAINES AFRICA",AF:   Once Spoken Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21996
+#EXTINF:-1 tvg-id="" tvg-name="AF:   QVC" tvg-logo="" group-title="CHAINES AFRICA",AF:   QVC
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21995
+#EXTINF:-1 tvg-id="" tvg-name="AF:   QVC Plus" tvg-logo="" group-title="CHAINES AFRICA",AF:   QVC Plus
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21994
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Sankofa TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   Sankofa TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21820
+#EXTINF:-1 tvg-id="" tvg-name="AF:   SIERRA LEONE tv" tvg-logo="" group-title="CHAINES AFRICA",AF:   SIERRA LEONE tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21722
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Sigma TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   Sigma TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21854
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Silverbird TV" tvg-logo="" group-title="CHAINES AFRICA",AF:   Silverbird TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21961
+#EXTINF:-1 tvg-id="" tvg-name="AF:   south sudan tv" tvg-logo="" group-title="CHAINES AFRICA",AF:   south sudan tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21919
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Spydar Tv Network" tvg-logo="" group-title="CHAINES AFRICA",AF:   Spydar Tv Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21987
+#EXTINF:-1 tvg-id="" tvg-name="AF:   TBN UK" tvg-logo="" group-title="CHAINES AFRICA",AF:   TBN UK
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21848
+#EXTINF:-1 tvg-id="" tvg-name="AF:   TEMPO" tvg-logo="" group-title="CHAINES AFRICA",AF:   TEMPO
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21990
+#EXTINF:-1 tvg-id="" tvg-name="AF:   TPA1" tvg-logo="" group-title="CHAINES AFRICA",AF:   TPA1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21713
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Traveling 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:   Traveling 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21733
+#EXTINF:-1 tvg-id="" tvg-name="AF:   TV Continental Nigeria" tvg-logo="" group-title="CHAINES AFRICA",AF:   TV Continental Nigeria
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21972
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Tv Maná Moçambique" tvg-logo="" group-title="CHAINES AFRICA",AF:   Tv Maná Moçambique
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21867
+#EXTINF:-1 tvg-id="" tvg-name="AF:   TV ZIMBO" tvg-logo="" group-title="CHAINES AFRICA",AF:   TV ZIMBO
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21781
+#EXTINF:-1 tvg-id="" tvg-name="AF:   TVC Entertainment" tvg-logo="" group-title="CHAINES AFRICA",AF:   TVC Entertainment
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21991
+#EXTINF:-1 tvg-id="" tvg-name="AF:   VHTV" tvg-logo="" group-title="CHAINES AFRICA",AF:   VHTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21951
+#EXTINF:-1 tvg-id="" tvg-name="AF:   Western4U Tv Network" tvg-logo="" group-title="CHAINES AFRICA",AF:   Western4U Tv Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21949
+#EXTINF:-1 tvg-id="" tvg-name="AF:  218 TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  218 TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21714
+#EXTINF:-1 tvg-id="" tvg-name="AF:  2M TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  2M TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21844
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ABN TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  ABN TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21843
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Action Sports 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Action Sports 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21834
+#EXTINF:-1 tvg-id="" tvg-name="AF:  AIT INTERNATINAL" tvg-logo="" group-title="CHAINES AFRICA",AF:  AIT INTERNATINAL
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21978
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Al Horreya tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  Al Horreya tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21925
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Alsace 20 TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Alsace 20 TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21837
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Amazing Discoveries TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Amazing Discoveries TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21839
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Amen TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Amen TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21985
+#EXTINF:-1 tvg-id="" tvg-name="AF:  AMHARA TV ETHIOPIA" tvg-logo="" group-title="CHAINES AFRICA",AF:  AMHARA TV ETHIOPIA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21885
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Antenne Réunion TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Antenne Réunion TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21835
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Apple Sauce TV  Togo" tvg-logo="" group-title="CHAINES AFRICA",AF:  Apple Sauce TV  Togo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21838
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ARSENALTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  ARSENALTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21982
+#EXTINF:-1 tvg-id="" tvg-name="AF:  AutoPlay" tvg-logo="" group-title="CHAINES AFRICA",AF:  AutoPlay
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21840
+#EXTINF:-1 tvg-id="" tvg-name="AF:  AYV (Sierra Leone)" tvg-logo="" group-title="CHAINES AFRICA",AF:  AYV (Sierra Leone)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21841
+#EXTINF:-1 tvg-id="" tvg-name="AF:  BCTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  BCTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21836
+#EXTINF:-1 tvg-id="" tvg-name="AF:  BET" tvg-logo="" group-title="CHAINES AFRICA",AF:  BET
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21979
+#EXTINF:-1 tvg-id="" tvg-name="AF:  C News" tvg-logo="" group-title="CHAINES AFRICA",AF:  C News
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21876
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Canal  Sport 1" tvg-logo="" group-title="CHAINES AFRICA",AF:  Canal  Sport 1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21805
+#EXTINF:-1 tvg-id="" tvg-name="AF:  CANAL C V V" tvg-logo="" group-title="CHAINES AFRICA",AF:  CANAL C V V
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21825
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Capital TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Capital TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21795
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Cartoons 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Cartoons 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21806
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Channel 3 Zone" tvg-logo="" group-title="CHAINES AFRICA",AF:  Channel 3 Zone
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21814
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Chosen TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Chosen TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21790
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Classic TV 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Classic TV 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21783
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Cna Sat" tvg-logo="" group-title="CHAINES AFRICA",AF:  Cna Sat
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21723
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Cooking 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Cooking 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21747
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Core TV News" tvg-logo="" group-title="CHAINES AFRICA",AF:  Core TV News
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21958
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Country Music 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Country Music 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21782
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Dabanga TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Dabanga TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21749
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Dare to Dream" tvg-logo="" group-title="CHAINES AFRICA",AF:  Dare to Dream
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21744
+#EXTINF:-1 tvg-id="" tvg-name="AF:  DESCO TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  DESCO TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21739
+#EXTINF:-1 tvg-id="" tvg-name="AF:  DieuTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  DieuTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21746
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Documentaries 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Documentaries 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21712
+#EXTINF:-1 tvg-id="" tvg-name="AF:  DUA TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  DUA TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21765
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Ebru Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:  Ebru Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21953
+#EXTINF:-1 tvg-id="" tvg-name="AF:  EJTV TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  EJTV TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21748
+#EXTINF:-1 tvg-id="" tvg-name="AF:  EL MOURITANIYA" tvg-logo="" group-title="CHAINES AFRICA",AF:  EL MOURITANIYA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21738
+#EXTINF:-1 tvg-id="" tvg-name="AF:  EMCI TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  EMCI TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21784
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Eritrean Tv channel" tvg-logo="" group-title="CHAINES AFRICA",AF:  Eritrean Tv channel
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21776
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Euronews" tvg-logo="" group-title="CHAINES AFRICA",AF:  Euronews
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21874
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Exercise 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Exercise 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21721
+#EXTINF:-1 tvg-id="" tvg-name="AF:  EYE AFRICA" tvg-logo="" group-title="CHAINES AFRICA",AF:  EYE AFRICA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21751
+#EXTINF:-1 tvg-id="" tvg-name="AF:  EYE AFRICA 1" tvg-logo="" group-title="CHAINES AFRICA",AF:  EYE AFRICA 1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21754
+#EXTINF:-1 tvg-id="" tvg-name="AF:  EYE AFRICA 2" tvg-logo="" group-title="CHAINES AFRICA",AF:  EYE AFRICA 2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21772
+#EXTINF:-1 tvg-id="" tvg-name="AF:  FAITH TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  FAITH TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21883
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Fashion TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Fashion TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21954
+#EXTINF:-1 tvg-id="" tvg-name="AF:  FLAMING SWORD TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  FLAMING SWORD TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21756
+#EXTINF:-1 tvg-id="" tvg-name="AF:  FusionPlus TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  FusionPlus TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21956
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GALAXY TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  GALAXY TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21988
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Galmudug Somali TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Galmudug Somali TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21916
+#EXTINF:-1 tvg-id="" tvg-name="AF:  GEB America" tvg-logo="" group-title="CHAINES AFRICA",AF:  GEB America
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21745
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Generations TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Generations TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21760
+#EXTINF:-1 tvg-id="" tvg-name="AF:  God TV Africa" tvg-logo="" group-title="CHAINES AFRICA",AF:  God TV Africa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21968
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Going To War" tvg-logo="" group-title="CHAINES AFRICA",AF:  Going To War
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21779
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Gospel Music 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Gospel Music 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21775
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Grand Lille TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Grand Lille TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21705
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Guinée Buzz" tvg-logo="" group-title="CHAINES AFRICA",AF:  Guinée Buzz
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21938
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hadi TV1" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hadi TV1
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21898
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hadi TV2" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hadi TV2
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21897
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hadi TV3" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hadi TV3
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21896
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hadi TV4" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hadi TV4
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21895
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hadi TV5" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hadi TV5
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21894
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hadi TV6" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hadi TV6
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21892
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Healing Jesus TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Healing Jesus TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21757
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Hillsong Channel" tvg-logo="" group-title="CHAINES AFRICA",AF:  Hillsong Channel
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21758
+#EXTINF:-1 tvg-id="" tvg-name="AF:  HIT TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  HIT TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21742
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Holy Spirit TV ( Ethiopia )" tvg-logo="" group-title="CHAINES AFRICA",AF:  Holy Spirit TV ( Ethiopia )
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21882
+#EXTINF:-1 tvg-id="" tvg-name="AF:  House Of Refuge" tvg-logo="" group-title="CHAINES AFRICA",AF:  House Of Refuge
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21773
+#EXTINF:-1 tvg-id="" tvg-name="AF:  i24 News" tvg-logo="" group-title="CHAINES AFRICA",AF:  i24 News
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21875
+#EXTINF:-1 tvg-id="" tvg-name="AF:  IBN TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  IBN TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21759
+#EXTINF:-1 tvg-id="" tvg-name="AF:  ICÔN AFRICA TM" tvg-logo="" group-title="CHAINES AFRICA",AF:  ICÔN AFRICA TM
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21743
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Jesus TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Jesus TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21778
+#EXTINF:-1 tvg-id="" tvg-name="AF:  JTV Ethiopia" tvg-logo="" group-title="CHAINES AFRICA",AF:  JTV Ethiopia
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21884
+#EXTINF:-1 tvg-id="" tvg-name="AF:  JUCE TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  JUCE TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21761
+#EXTINF:-1 tvg-id="" tvg-name="AF:  K24" tvg-logo="" group-title="CHAINES AFRICA",AF:  K24
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21937
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Kajou TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Kajou TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21936
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Kantanka TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Kantanka TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21935
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Kartoon Fun Time" tvg-logo="" group-title="CHAINES AFRICA",AF:  Kartoon Fun Time
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21771
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Kass TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Kass TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21934
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Kathryn Raaker’s World TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Kathryn Raaker’s World TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21802
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Kicc tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  Kicc tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21933
+#EXTINF:-1 tvg-id="" tvg-name="AF:  KingsWord TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  KingsWord TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21965
+#EXTINF:-1 tvg-id="" tvg-name="AF:  KTV (Sierra Leone)" tvg-logo="" group-title="CHAINES AFRICA",AF:  KTV (Sierra Leone)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21932
+#EXTINF:-1 tvg-id="" tvg-name="AF:  KWANZA" tvg-logo="" group-title="CHAINES AFRICA",AF:  KWANZA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21931
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Laayoune TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Laayoune TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21753
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Lagos TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Lagos TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21763
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Lèeekô TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Lèeekô TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21780
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Lèeekô TV(Burkina Faso" tvg-logo="" group-title="CHAINES AFRICA",AF:  Lèeekô TV(Burkina Faso
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21845
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Liberation TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Liberation TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21973
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Lifestream Television" tvg-logo="" group-title="CHAINES AFRICA",AF:  Lifestream Television
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21764
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Living Outdoors" tvg-logo="" group-title="CHAINES AFRICA",AF:  Living Outdoors
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21769
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Love world plus" tvg-logo="" group-title="CHAINES AFRICA",AF:  Love world plus
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21969
+#EXTINF:-1 tvg-id="" tvg-name="AF:  LoveWorld PLUS" tvg-logo="" group-title="CHAINES AFRICA",AF:  LoveWorld PLUS
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21970
+#EXTINF:-1 tvg-id="" tvg-name="AF:  LoveWorld Sat TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  LoveWorld Sat TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21971
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MB Live TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  MB Live TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21725
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MBC Malawi tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  MBC Malawi tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21752
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MBM TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  MBM TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21740
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MDL" tvg-logo="" group-title="CHAINES AFRICA",AF:  MDL
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21767
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MEDI 1 TV Afrique" tvg-logo="" group-title="CHAINES AFRICA",AF:  MEDI 1 TV Afrique
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21774
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MEKAMELEEN TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  MEKAMELEEN TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21704
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Monde Du Loisir TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Monde Du Loisir TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21777
+#EXTINF:-1 tvg-id="" tvg-name="AF:  MOUV’ TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  MOUV’ TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21770
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Natural" tvg-logo="" group-title="CHAINES AFRICA",AF:  Natural
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21787
+#EXTINF:-1 tvg-id="" tvg-name="AF:  NBS TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  NBS TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21788
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Nejat TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Nejat TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21794
+#EXTINF:-1 tvg-id="" tvg-name="AF:  New Beginning 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  New Beginning 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21792
+#EXTINF:-1 tvg-id="" tvg-name="AF:  nollywood" tvg-logo="" group-title="CHAINES AFRICA",AF:  nollywood
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21976
+#EXTINF:-1 tvg-id="" tvg-name="AF:  nollywood MOVIE" tvg-logo="" group-title="CHAINES AFRICA",AF:  nollywood MOVIE
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21974
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Novelas TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Novelas TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21791
+#EXTINF:-1 tvg-id="" tvg-name="AF:  NPowered Tv Network" tvg-logo="" group-title="CHAINES AFRICA",AF:  NPowered Tv Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21786
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Planet Cannabis Entertainment" tvg-logo="" group-title="CHAINES AFRICA",AF:  Planet Cannabis Entertainment
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21801
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Planet Cannabis Music" tvg-logo="" group-title="CHAINES AFRICA",AF:  Planet Cannabis Music
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21798
+#EXTINF:-1 tvg-id="" tvg-name="AF:  PressTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  PressTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21703
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RASD TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  RASD TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21799
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Rave TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Rave TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21957
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Really TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Really TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21803
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Resurrection TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Resurrection TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21821
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RT" tvg-logo="" group-title="CHAINES AFRICA",AF:  RT
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21880
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RT FRANCE" tvg-logo="" group-title="CHAINES AFRICA",AF:  RT FRANCE
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21881
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTG 18" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTG 18
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21833
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTG guinée" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTG guinée
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21797
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTM8 - TAMAZIGHE" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTM8 - TAMAZIGHE
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21829
+#EXTINF:-1 tvg-id="" tvg-name="AF:  RTV  RWANDA" tvg-logo="" group-title="CHAINES AFRICA",AF:  RTV  RWANDA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21822
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Salvation TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Salvation TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21955
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Sankofa TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Sankofa TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21819
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Schekina Miracle TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Schekina Miracle TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21831
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Sci-Fi 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Sci-Fi 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21804
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Set Free TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Set Free TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21809
+#EXTINF:-1 tvg-id="" tvg-name="AF:  she TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  she TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21719
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Shopping 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Shopping 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21818
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Southern Gospel 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Southern Gospel 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21826
+#EXTINF:-1 tvg-id="" tvg-name="AF:  STAD Afric tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  STAD Afric tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21817
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Star TV Tanzania" tvg-logo="" group-title="CHAINES AFRICA",AF:  Star TV Tanzania
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21708
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Street Music 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Street Music 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21827
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Studio 1 tv" tvg-logo="" group-title="CHAINES AFRICA",AF:  Studio 1 tv
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21832
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Sudan TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Sudan TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21923
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Sudania 24 TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Sudania 24 TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21922
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Tanasuh TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  Tanasuh TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21715
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TCI TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  TCI TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21824
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TCV Cabo" tvg-logo="" group-title="CHAINES AFRICA",AF:  TCV Cabo
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21807
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Tele 6 Univers Haiti" tvg-logo="" group-title="CHAINES AFRICA",AF:  Tele 6 Univers Haiti
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21893
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TELE BOSTON" tvg-logo="" group-title="CHAINES AFRICA",AF:  TELE BOSTON
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21813
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TELE TCHAD" tvg-logo="" group-title="CHAINES AFRICA",AF:  TELE TCHAD
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21812
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TeleM  TV (Rwanda)" tvg-logo="" group-title="CHAINES AFRICA",AF:  TeleM  TV (Rwanda)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21734
+#EXTINF:-1 tvg-id="" tvg-name="AF:  tempo afric" tvg-logo="" group-title="CHAINES AFRICA",AF:  tempo afric
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21727
+#EXTINF:-1 tvg-id="" tvg-name="AF:  The Church Network" tvg-logo="" group-title="CHAINES AFRICA",AF:  The Church Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21731
+#EXTINF:-1 tvg-id="" tvg-name="AF:  The Impact Network" tvg-logo="" group-title="CHAINES AFRICA",AF:  The Impact Network
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21730
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TheoTV" tvg-logo="" group-title="CHAINES AFRICA",AF:  TheoTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21735
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TLM.TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  TLM.TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21830
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TMA TV" tvg-logo="" group-title="CHAINES AFRICA",AF:  TMA TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21811
+#EXTINF:-1 tvg-id="" tvg-name="AF:  TV Famille" tvg-logo="" group-title="CHAINES AFRICA",AF:  TV Famille
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21823
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Tv Francophonie 24" tvg-logo="" group-title="CHAINES AFRICA",AF:  Tv Francophonie 24
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21732
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Urban Music 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Urban Music 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21729
+#EXTINF:-1 tvg-id="" tvg-name="AF:  Westerns 4U" tvg-logo="" group-title="CHAINES AFRICA",AF:  Westerns 4U
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21718
+#EXTINF:-1 tvg-id="" tvg-name="AF:  WLPC Detroit" tvg-logo="" group-title="CHAINES AFRICA",AF:  WLPC Detroit
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21717
+#EXTINF:-1 tvg-id="" tvg-name="AF: : NTA Haussa" tvg-logo="" group-title="CHAINES AFRICA",AF: : NTA Haussa
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21846
+#EXTINF:-1 tvg-id="" tvg-name="AF: ACTS TV" tvg-logo="" group-title="CHAINES AFRICA",AF: ACTS TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21847
+#EXTINF:-1 tvg-id="" tvg-name="AF: Arise News" tvg-logo="" group-title="CHAINES AFRICA",AF: Arise News
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21869
+#EXTINF:-1 tvg-id="" tvg-name="AF: Blue Nile (Sudan)" tvg-logo="" group-title="CHAINES AFRICA",AF: Blue Nile (Sudan)
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21924
+#EXTINF:-1 tvg-id="" tvg-name="AF: CisTV" tvg-logo="" group-title="CHAINES AFRICA",AF: CisTV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21855
+#EXTINF:-1 tvg-id="" tvg-name="AF: Libya’s Channel" tvg-logo="" group-title="CHAINES AFRICA",AF: Libya’s Channel
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21709
+#EXTINF:-1 tvg-id="" tvg-name="AF: Somali Cable TV" tvg-logo="" group-title="CHAINES AFRICA",AF: Somali Cable TV
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21906
+#EXTINF:-1 tvg-id="" tvg-name="AF: TBN AFRICA" tvg-logo="" group-title="CHAINES AFRICA",AF: TBN AFRICA
+http://gtv2.tn:8000/hamzasrikou/123HAMZA/21710

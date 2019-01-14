@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Ilektra tv" tvg-logo="" group-title="",Ilektra tv
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hlektra FM" tvg-logo="" group-title="",Hlektra FM
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pena FM" tvg-logo="" group-title="",Pena FM
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="Palmos FM" tvg-logo="" group-title="",Palmos FM
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hlektra Live out" tvg-logo="" group-title="",Hlektra Live out
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pemptusia FM" tvg-logo="" group-title="",Pemptusia FM
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="kastanitsa" tvg-logo="" group-title="",kastanitsa
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/57.ts

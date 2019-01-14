@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Ilektra tv
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/36.ts
+#EXTINF:-1,Hlektra FM
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/41.ts
+#EXTINF:-1,Pena FM
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/37.ts
+#EXTINF:-1,Palmos FM
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/45.ts
+#EXTINF:-1,Hlektra Live out
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/56.ts
+#EXTINF:-1,Pemptusia FM
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/55.ts
+#EXTINF:-1,kastanitsa
+http://iptv.vlivanis.gr:25461/live/LIve_Iptv/HTLPvzOfD9/57.ts

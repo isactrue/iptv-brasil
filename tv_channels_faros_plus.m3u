@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FarosTV" tvg-logo="http://www.anacon.org/hunter/faros.jpg" group-title="Cyprus-Tv",FarosTV
+http://master.cystreams.com:25461/faros/farostv/154
+#EXTINF:-1 tvg-id="" tvg-name="Faros Live Link" tvg-logo="" group-title="General Streams",Faros Live Link
+http://master.cystreams.com:25461/faros/farostv/1866
